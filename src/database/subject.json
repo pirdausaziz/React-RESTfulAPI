@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Biology",
+        "code": "BAE221"
+    },
+    {
+        "id": 2,
+        "name": "Calculus",
+        "code": "MET231"
+    },
+    {
+        "id": 3,
+        "name": "Software Engineering",
+        "code": "ECT266"
+    },
+    {
+        "id": 4,
+        "name": "Technical Drawing",
+        "code": "ENT112"
+    }
+]

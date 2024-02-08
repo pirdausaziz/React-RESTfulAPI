@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Computer Science",
+        "code": "CS22"
+    },
+    {
+        "id": 2,
+        "name": "Computer Engineering",
+        "code": "CS21"
+    },
+    {
+        "id": 3,
+        "name": "Biomedical Engineering",
+        "code": "BE01"
+    },
+    {
+        "id": 4,
+        "name": "Mechanical Engineering",
+        "code": "ME01"
+    },
+    {
+        "id": 5,
+        "name": "Mechatronics Engineering",
+        "code": "ME02"
+    }
+]

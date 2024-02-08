@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "subject": "Biology",
+        "teacherId": 9001,
+        "studentList": [
+            7001,
+            7002
+        ]
+    },
+    {
+        "id": 2,
+        "subject": "Biology",
+        "teacherId": 9002,
+        "studentList": [
+            7003,
+            7004
+        ]
+    },
+    {
+        "id": 3,
+        "subject": "Calculus",
+        "teacherId": 9003,
+        "studentList": [
+            7005,
+            7006
+        ]
+    },
+    {
+        "id": 4,
+        "subject": "Embedded System",
+        "teacherId": 9004,
+        "studentList": [
+            7003,
+            7006
+        ]
+    }
+]

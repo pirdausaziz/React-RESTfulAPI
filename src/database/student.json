@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Dominic Decoco",
+        "matrix": 7001,
+        "age":23,
+        "course": "Computer Science",
+        "attendance": [
+            {
+                "date": "12/3",
+                "subject": "Web Development",
+                "attendace": true
+            },
+            {
+                "date": "13/3",
+                "subject": "Calculus",
+                "attendace": true
+            },
+            {
+                "date": "14/3",
+                "subject": "Software Engineering",
+                "attendace": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Sarah Ann",
+        "matrix": 7002,
+        "age":19,
+        "course": "Biomedical Engineering",
+        "attendance": [
+            {
+                "date": "12/3",
+                "subject": "Biology",
+                "attendace": true
+            },
+            {
+                "date": "13/3",
+                "subject": "Human Anatomy",
+                "attendace": true
+            },
+            {
+                "date": "14/3",
+                "subject": "Embedded System",
+                "attendace": true
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Walter White",
+        "matrix": 7003,
+        "age":34,
+        "course": "Chemical Engineering",
+        "attendance": [
+            {
+                "date": "12/3",
+                "subject": "Electrochemistry",
+                "attendace": true
+            },
+            {
+                "date": "13/3",
+                "subject": "Materials",
+                "attendace": true
+            },
+            {
+                "date": "14/3",
+                "subject": "Matter Composition",
+                "attendace": true
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Jessie Pinkman",
+        "matrix": 7004,
+        "age":26,
+        "course": "Mechanical Engineering",
+        "attendance": [
+            {
+                "date": "12/3",
+                "subject": "Dynamics",
+                "attendace": true
+            },
+            {
+                "date": "13/3",
+                "subject": "Calculus",
+                "attendace": true
+            },
+            {
+                "date": "14/3",
+                "subject": "Thermodynamic",
+                "attendace": true
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Ayda Miller",
+        "matrix": 7005,
+        "age":25,
+        "course": "Biomedical Engineering",
+        "attendance": [
+            {
+                "date": "12/3",
+                "subject": "Dynamics",
+                "attendace": true
+            },
+            {
+                "date": "13/3",
+                "subject": "Calculus",
+                "attendace": true
+            },
+            {
+                "date": "14/3",
+                "subject": "Thermodynamic",
+                "attendace": true
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Jessie William",
+        "matrix": 7006,
+        "age":26,
+        "course": "Computer Engineering",
+        "attendance": [
+            {
+                "date": "12/3",
+                "subject": "Software Engineering",
+                "attendace": true
+            },
+            {
+                "date": "13/3",
+                "subject": "Calculus",
+                "attendace": true
+            },
+            {
+                "date": "14/3",
+                "subject": "Embedded System",
+                "attendace": true
+            }
+        ]
+    }
+]
