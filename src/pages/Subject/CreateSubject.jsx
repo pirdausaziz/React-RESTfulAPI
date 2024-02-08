@@ -1,4 +1,4 @@
-import CreateForm from "../../component/CreateForm";
+import CreateForm from "../../components/CreateForm";
 
 const CreateSubject = () => {
 
@@ -9,7 +9,7 @@ const CreateSubject = () => {
 
     return (
         <div>
-            <h1>This is Create Subject page</h1>
+            <h2>This is Create Subject page</h2>
             <CreateForm 
                 entity="subject"
                 inputElements={inputElements}

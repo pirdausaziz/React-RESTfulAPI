@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useEffect } from "react";
-import EditForm from "../../component/EditForm";
+import EditForm from "../../components/EditForm";
 import { useParams } from "react-router-dom";
 import { fetchOneData } from "../../services/requestHandler";
 
@@ -39,7 +39,7 @@ const EditTeacher = () => {
 
     return (
         <div>
-            <h1>This is Edit Teacher page</h1>
+            <h2>This is Edit Teacher page</h2>
             <EditForm 
                 entity="teacher"
                 id={id}

@@ -1,4 +1,4 @@
-import ViewTable from "../../component/ViewTable"
+import ViewTable from "../../components/ViewTable"
 import { useEffect } from "react";
 import { fetchData } from "../../services/requestHandler";
 import { useState } from "react";

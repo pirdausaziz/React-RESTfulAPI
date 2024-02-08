@@ -26,7 +26,7 @@ const Login = ({ setAllowed }) => {
 
     return (
         <div>
-            <h1>Welcome to Admin Website</h1>
+            <h2>Welcome to Admin Website</h2>
             <form onSubmit={handleSubmit}>
                 <h3>Email: <input 
                             type="text" 
