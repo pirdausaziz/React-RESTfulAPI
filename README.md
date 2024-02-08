@@ -3,7 +3,7 @@ This is a simple full stack application with both frontend and backend systems. 
 
 ### Frontend
 
-The frontend of this application is built with React. It uses a reusable template, which allows for consistent styling and behavior across different parts of the application. The folder structure contains `component` and `pages`. The `component` directory contains reusable React components while the `pages` directory contains components that correspond to different routes or endpoints.
+The frontend of this application is built with React. It uses a reusable template, which allows for consistent styling and behavior across different parts of the application. The folder structure contains `components` and `pages`. The `components` directory contains reusable React components while the `pages` directory contains components that correspond to different routes or endpoints.
 
 ### Backend
 
@@ -18,21 +18,20 @@ The backend of this application is built with Node.js. It follows the principles
 
  1. Clone repo `git clone https://github.com/pirdausaziz/React-RESTfulAPI.git`.
  2. In `React-RESTfulAPI` directory run `npm install`.
- 3. Create a new database with name `adminDB`.
- 4. Run `query_init.sql` using pgAdmin query tool to create table and assign value.
+ 3. Using `psql` command or pgAdmin, create a new database called `adminDB`.
+ 4. Run `query_init.sql` using query tool to create table and assign value.
  5. Update Postgres config at `src\api\utils\databaseUtils.js`.
- 6. Run `npm start`. Following link should able to be reached:
-**Frontend** 
-http://localhost:3000/
-**API**
-http://localhost:3001/api/subject
-http://localhost:3001/api/teacher
-http://localhost:3001/api/student
+ 6. Run `npm start`. Following link should able to be reached:<br>
+**Frontend**<br>
+http://localhost:3000/<br>
+**API**<br>
+http://localhost:3001/api/subject<br>
+http://localhost:3001/api/teacher<br>
+http://localhost:3001/api/student<br>
 
 ### Other Information
 
- - If you want to run frontend or backend seperately, use following
-   command `npm run start:frontend` or `npm run start:backend`.
+ - If you want to run frontend or backend seperately, use following command `npm run start:frontend` or `npm run start:backend`.
   - Having some problem? The backend files is only inside `api` folder and `server.js` file. Other than that is frontend file.
 
 ### License
